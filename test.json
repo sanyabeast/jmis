@@ -1,0 +1,11 @@
+{
+	"privet" : 'kak dela',
+	"object" : {
+		'data' : ["hello", 'how are you?'],
+	},
+	/*comment*/
+	'I am super json!' : "it`s true",
+	"testArray" : [11, 11,],
+	"testBool" : true,
+	//single line comment
+}

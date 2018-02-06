@@ -1,0 +1,18 @@
+{
+  "name": "jsy",
+  "version": "0.1.0b",
+  "description": "",
+  "author" : {
+  	"name" : "Alexander Gaivoronsy aka sanyabeast",
+  	"email" : "a.gvrnsk@gmail.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies" : {
+  	"requirejs" : "latest",
+  	"requirejs-text" : "latest"
+  }
+}

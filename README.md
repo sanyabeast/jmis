@@ -1,4 +1,4 @@
-# JMIS (Misdone JSON);
+# JSUX
 
 # Description 
-JMIS allows you parse broken or invalid JSON`s
+JSUX makes broken and invalid JSONs not broken and not invalid
